@@ -19,11 +19,11 @@ const App = () => {
         <Tittle subtitle="OUR PROGRAM" title="WHAT WE OFFER" />
         <Programs />
         <About />
-        <Tittle subtitle="Gallery" title="Campus Photos" />
+        <Tittle subtitle="Galleryyyy" title="Campus Photos" />
         <Campus />
-        <Tittle subtitle="TESTIMONIALS" title="What Student Says" />
+        <Tittle subtitle="TESTIMONIALS   " title="What Student Says" />
         <Testimonials/>
-        <Tittle subtitle="Contact Us" title="Get in Touch With Us" />
+        <Tittle subtitle="Contact Us   " title="Get in Touch With Us" />
         <Contact/>
         <Footer/>
       </div>
